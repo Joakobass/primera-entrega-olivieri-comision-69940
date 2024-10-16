@@ -1,0 +1,31 @@
+2024-10-15 22:29:10 [[32minfo[39m]: Listening on 8080
+2024-10-15 22:34:17 [[32minfo[39m]: Listening on 8080
+2024-10-15 22:36:36 [[32minfo[39m]: Listening on 8080
+2024-10-15 22:36:41 [[31merror[39m]: [GET] api/mocks/mockingusers Users validation failed: password: Path `password` is required., email: Path `email` is required., last_name: Path `last_name` is required., first_name: Path `first_name` is required.
+2024-10-15 22:39:15 [[32minfo[39m]: Listening on 8080
+2024-10-15 22:39:18 [[31merror[39m]: [GET] api/mocks/mockingusers Users validation failed: password: Path `password` is required., email: Path `email` is required., last_name: Path `last_name` is required., first_name: Path `first_name` is required.
+2024-10-15 22:40:17 [[32minfo[39m]: Listening on 8080
+2024-10-15 22:40:47 [[31merror[39m]: [GET] api/mocks/mockingusers Users validation failed: password: Path `password` is required., email: Path `email` is required., last_name: Path `last_name` is required., first_name: Path `first_name` is required.
+2024-10-15 22:41:05 [[32minfo[39m]: Listening on 8080
+2024-10-15 22:42:15 [[32minfo[39m]: Listening on 8080
+2024-10-15 22:42:35 [[32minfo[39m]: Listening on 8080
+2024-10-15 22:42:39 [[32minfo[39m]: Listening on 8080
+2024-10-15 22:43:54 [[32minfo[39m]: Listening on 8080
+2024-10-15 22:47:01 [[32minfo[39m]: Listening on 8080
+2024-10-15 22:48:40 [[32minfo[39m]: Listening on 8080
+2024-10-15 22:51:17 [[32minfo[39m]: Listening on 8080
+2024-10-15 22:51:20 [[32minfo[39m]: Listening on 8080
+2024-10-15 22:52:19 [[32minfo[39m]: Listening on 8080
+2024-10-15 22:52:23 [[32minfo[39m]: Listening on 8080
+2024-10-15 22:53:40 [[32minfo[39m]: Listening on 8080
+2024-10-15 22:53:45 [[32minfo[39m]: Listening on 8080
+2024-10-15 22:53:55 [[32minfo[39m]: Listening on 8080
+2024-10-15 22:55:04 [[32minfo[39m]: Listening on 8080
+2024-10-15 22:57:09 [[32minfo[39m]: Listening on 8080
+2024-10-15 22:57:19 [[32minfo[39m]: Listening on 8080
+2024-10-15 22:57:58 [[32minfo[39m]: Listening on 8080
+2024-10-15 22:58:04 [[32minfo[39m]: Listening on 8080
+2024-10-15 22:58:06 [[32minfo[39m]: Listening on 8080
+2024-10-15 22:58:45 [[32minfo[39m]: Listening on 8080
+2024-10-15 22:59:37 [[32minfo[39m]: Listening on 8080
+2024-10-15 23:00:42 [[32minfo[39m]: Listening on 8080
